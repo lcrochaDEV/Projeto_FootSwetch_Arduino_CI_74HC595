@@ -34,11 +34,11 @@ Estou estudando uma forma de trocar os modulos relays por transistos PNP e NPN, 
 
 ##### Materiais usado no projeto:
 
-01 - Arduino Nano
-01 - CI LM7805
-05 - Footswitch SPST Momentâneo
-05 - Mini DC 5V 12V DPDT Relay Module Double Pole
-12 - Resistores para os Leds
-01 - Diodo
-01 - Gabinete Aluminio Diecast 1032L
+01 - Arduino Nano  
+01 - CI LM7805  
+05 - Footswitch SPST Momentâneo  
+05 - Mini DC 5V 12V DPDT Relay Module Double Pole  
+12 - Resistores para os Leds  
+01 - Diodo  
+01 - Gabinete Aluminio Diecast 1032L  
 
