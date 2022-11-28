@@ -23,6 +23,9 @@ Segue links de artigos sobre o CI 74HC595 Shift Register:
 1. [rastating.github.io](https://rastating.github.io/using-a-74hc595-shift-register-with-an-arduino-uno/)
 2. [pijaeducation.com](https://pijaeducation.com/arduino/seven-segment/shift-register-ic-74hc595/)
 3. [docs.arduino.cc](https://docs.arduino.cc/tutorials/communication/guide-to-shift-out)
+4. [best-microcontroller-projects](https://www.best-microcontroller-projects.com/74hc595.html)
+5. [reddit.com](https://www.reddit.com/r/arduino/comments/iluho9/74hc595_sipo_shift_register_refusing_to_function/)
+6. [gist.github.com](https://gist.github.com/RonilsonSantos/55add1a796b2ea1c37f0)
 
 O projeto ainda falta acrescentar o modulo de cartão de memória e toda programação em C, para salvar os presets em banco de dados (Card SD).
 
