@@ -5,7 +5,7 @@ Projeto em andamento...
 
 [![](https://markdown-videos.deta.dev/youtube/edZq05Mqogc)](https://youtu.be/edZq05Mqogc)
 
-Projeto de um footshwtch com base em um projeto encontrado no site [instructables](https://www.instructables.com/arduino-programable-5-pedal-switcher/).
+Projeto de um footswitch com base em um projeto encontrado no site [instructables](https://www.instructables.com/arduino-programable-5-pedal-switcher/).
 
 O projeto inicial consiste em apenas uma placa de Arduino nano, 5 módulos Relays de 5V, 10 leds de variadas cores, e uma placa PCB caseira criada no software Proteus ISIS.
 
