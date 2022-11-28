@@ -30,3 +30,15 @@ Segue links de artigos sobre o CI 74HC595 Shift Register:
 O projeto ainda falta acrescentar o modulo de cartão de memória e toda programação em C, para salvar os presets em banco de dados (Card SD).
 
 Estou estudando uma forma de trocar os modulos relays por transistos PNP e NPN, e como se trata de um equipamnto de som, estou com dificuldade de retirar ruidos de acionamento das chaves.
+
+
+##### Materiais usado no projeto:
+
+01 - Arduino Nano
+01 - CI LM7805
+05 - Footswitch SPST Momentâneo
+05 - Mini DC 5V 12V DPDT Relay Module Double Pole
+12 - Resistores para os Leds
+01 - Diodo
+01 - Gabinete Aluminio Diecast 1032L
+
