@@ -45,4 +45,5 @@ Estou estudando uma forma de trocar os modulos relays por transistos PNP e NPN, 
 01 - Conector Jack P4 Fêmea DC-022 5.5x2.1mm  
 14 - Jack P10 Fêmea Mono Circuito Fechado  
 01 - Chave HH Alavanca MTS102 2 Posições  
+02 - CIs 74HC595 (Shift Register)
 
