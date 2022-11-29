@@ -32,7 +32,7 @@ O projeto ainda falta acrescentar o modulo de cartão de memória e toda program
 Estou estudando uma forma de trocar os modulos relays por transistos PNP e NPN, e como se trata de um equipamnto de som, estou com dificuldade de retirar ruidos de acionamento das chaves.
 
 
-##### Materiais usado no projeto:
+#### Materiais usado no projeto:
 
 01 - Arduino Nano  
 01 - CI LM7805  
